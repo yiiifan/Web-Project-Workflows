@@ -1,0 +1,24 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "a project to showcase workflows",
+  "main": "\u001b[D\u001b[D\u001b[C\u001bhtml",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiiifan/workflows.git"
+  },
+  "author": "Ivana Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiiifan/workflows/issues"
+  },
+  "homepage": "https://github.com/yiiifan/workflows#readme"
+}

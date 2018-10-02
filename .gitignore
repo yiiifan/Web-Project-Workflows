@@ -4,3 +4,4 @@ node_modules
 .sass-cache
 builds/**/images/*
 Web Project Workflow.md
+package-lock.json
